@@ -1,0 +1,19 @@
+.bdy{
+    width: 500pt;
+    height: 300pt;
+    background-color: gray;
+    
+}
+.pla{
+    display: flex;
+    justify-content: center;
+ margin-top: 200pt;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+}
+.sym{
+    display: flex;
+    flex-direction: column;
+}
